@@ -1,0 +1,135 @@
+{
+  "debug": false,
+  "package": "com.supercell.clashofclans",
+  "key": "72f1a4a4c48e44da0c42310f800e96624e6dc6a641a9d41c3b5039d8dfadc27e",
+  "url": "gamea.clashofclans.com",
+  "keystore": {
+    "storepass": "",
+    "key": {
+      "alias": "Entech.inc",
+      "keypass": "",
+      "dname": {
+        "cn": "Naix",
+        "ou": "Administration",
+        "o": "Entech.inc",
+        "l": "Uplink.inc",
+        "s": "Entech.inc",
+        "c": "SA"
+      }
+    }
+  },
+  "paths": {
+    "apktool": "apktool.bat",
+    "md5sum": "md5sum.exe",
+    "dd": "dd.exe",
+    "keytool": "keytool.exe",
+    "jarsigner": "jarsigner.exe",
+    "zipalign": "zipalign.exe"
+  },
+  "versions": {
+  "8.212.9": {
+    "key": "469b704e7f6009ba8fc72e9b5c864c8e9285a755c5190f03f5c74852f6d9f419",
+    "arm": {
+      "md5": "769e2e9e1258b75d15cb7e04b2e49de3",
+      "key-offset": "4280344",
+      "url-offset": "3534513"
+    },
+    "x86": {
+      "md5": "29ca23e48a5e419e83f2a7988c842d3e",
+      "key-offset": "6189080",
+      "url-offset": "4768816"
+    }
+  },
+  "8.212.12": {
+    "key": "9b39b440ff6c13ad07b506fc55e37f69856895c3fd5ab35978cdf5e34eb37471",
+    "arm": {
+      "md5": "669f62b66adc4dee7125440622931461",
+      "key-offset": "4284440",
+      "url-offset": "3536282"
+    },
+    "x86": {
+      "md5": "ad0e894f1be29dee2abfbfbd0ddfcb32",
+      "key-offset": "6193176",
+      "url-offset": "4771769"
+    }
+  },
+  "8.332.16": {
+    "key": "bb9ca4c6b52ecdb40267c3bcca03679201a403ef6230b9e488db949b58bc7479",
+    "arm": {
+      "md5": "c5ce1ad9b7ac5e01e7aeb7105626dcf7",
+      "key-offset": "4435992",
+      "url-offset": "3674386"
+    },
+    "x86": {
+      "md5": "1e4f5c1539dfe4c2308bf95f60a9ea1a",
+      "key-offset": "6434840",
+      "url-offset": "4975777"
+    }
+  },
+  "8.551.24": {
+    "key": "1315d5ba8e41d40d2ad1480aa621ad864cf2557569d184fa00fc11471dd31f4b",
+    "arm": {
+      "md5": "ae9a5703e4666e80b6321e53e6e29382",
+      "key-offset": "4706336",
+      "url-offset": "3919948"
+    },
+    "x86": {
+      "md5": "16740c9dbfd005698e533c2cb06389a7",
+      "key-offset": "7290912",
+      "url-offset": "5449612"
+    }
+  },
+  "8.709.2": {
+    "key": "78df4df6f0e6db0261e87dd38e74bb29557dfe5b9bce91f92e1c98355d7e7139",
+    "arm": {
+      "md5": "9c92fda0abc09d19e5844929f2e3636f",
+      "key-offset": "4620328",
+      "url-offset": "3771342"
+    },
+    "x86": {
+      "md5": "403e386310aa6bfe9e1dafed43ff99de",
+      "key-offset": "7180328",
+      "url-offset": "5134174"
+    }
+  },
+  "8.709.16": {
+    "key": "4102c28189897a48cedfa8c6e5378f55624f9e8408fa8a376643dbbce715b21a",
+    "arm": {
+      "md5": "48749cb412db5b2eb5f8dae4bca224a2",
+      "key-offset": "4620328",
+      "url-offset": "3773226"
+    },
+    "x86": {
+      "md5": "95a740432d9a267ec084f141346d419c",
+      "key-offset": "7184424",
+      "url-offset": "5136890"
+    }
+  },
+    "9.24.15": {
+    "key": "5cfc0e4664465975b1be936c942604e2fcfdf4dc20a06c5efd725aa0df68ec00",
+    "arm": {
+      "md5": "ff7db19139e173bee135f7c98d1a9590",
+      "key-offset": "5705776",
+      "url-offset": "4801243"
+    },
+    "x86": {
+      "md5": "7108b01b9c8a678fbdfb6e6a85289876",
+      "key-offset": "9187376",
+      "url-offset": "6983035"
+    }
+  },
+    "9.105.10": {
+    "key": "655a7dc351818e035c2990fb5f27e345064fbe1ea69bfd65f2ea7319943cd000",
+    "arm": {
+      "md5": "384e650ccd82ac99bb20c1f85f842ee7",
+      "key-offset": "5754928",
+      "url-offset": "4828203"
+    },
+    "x86": {
+      "md5": "a64d5d3b13436ca903abf4fa267a0338",
+      "key-offset": "9248816",
+      "url-offset": "7020859"
+    }
+  }
+}
+}
