@@ -54,3 +54,6 @@ All tools such as apktool, zipalign belongs to their respective owners I did not
     Note: `requests` and `requests-cache` can be installed with:
 
         python3 -m pip install requests requests-cache
+
+## WARNING !
+Please do not use this patcher for 9.x eventhough it has 9.x keys in it this tool is not adapted to 9.X and will not work with 9.X clients
